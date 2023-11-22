@@ -1,0 +1,9 @@
+ <!--smeagol gif-->
+            <div class="tenor-gif-embed" data-postid="19211615" data-share-method="host" data-aspect-ratio="1" data-width="10%"><a href="https://tenor.com/view/abell46s-reface-abell46sss-gollum-golum-gif-19211615">Abell46s Reface GIF</a>from <a href="https://tenor.com/search/abell46s-gifs">Abell46s GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
+            /*smeagol gif*/
+.tenor-gif-embed{
+  position: absolute;
+  top: 1285px; left: 5px;
+}

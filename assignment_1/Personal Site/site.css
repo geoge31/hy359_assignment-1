@@ -1,0 +1,197 @@
+/* 
+  Georgios Geramoutsos
+  @csd3927
+  S1_A1 - HY359 
+*/
+
+
+
+/* Body info */
+body {
+  width: 100vh; height: 100vh;
+  background-image: url("background.jpg"); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+  
+}
+
+
+
+
+
+
+/* Profle Picture*/
+#profil {
+    width: 90px;  height: 90px; padding-top: 4px;
+    border-radius: 45%;
+    opacity: 0.9;
+}
+
+
+
+
+
+/* Carousel */
+#carouselExampleControls {
+  position: absolute;
+  top: 350px; left: 150px; right: 50px;
+  letter-spacing: 3px;
+}
+
+
+p1{
+  position: absolute;
+  font-size: xx-large;
+  font-style: oblique;
+  font-family: monospace;
+  top: 300px; left: 150px;
+  color: blanchedalmond;
+}
+
+
+
+
+
+
+
+/* Heading */
+/* one site to rule them all */
+h1 {
+  position: absolute; 
+  height: 5px; top: 25px; left: 1000px;
+  font-family: "Monaco",sans-serif; font-size: large;
+  letter-spacing: 3px;
+  color: antiquewhite;
+  opacity: 0.9;
+}
+
+
+.nav {
+  position: absolute;
+  top: 30px; left: 100px;
+}
+
+
+
+/*audio*/
+audio {
+  position: absolute;
+  height: 225px; width: 975px;
+  top: 980px; left: 150px;
+  opacity: 0.6;
+}
+
+
+
+
+
+/*youtube video*/
+.youtube {
+  position: absolute;
+  top: 1230px; left: 150px;
+  opacity: 0.95; 
+}
+
+
+p7.groove {
+  border-style: groove;
+  border-color: antiquewhite;
+  position: absolute;
+  height: 780px;
+  top: 1150px;  left: 1200px; right: 10px;
+  font-size: large;
+  color: antiquewhite;
+}
+
+p8{
+  position: absolute;
+  top: 2800px; left: 150px;
+  color: antiquewhite;
+  font-size: x-large;
+}
+
+
+
+
+/*video mp4*/
+video {
+  position: absolute;
+  top: 2050px; left: 150px;
+}
+
+
+p6{
+  position: absolute;
+  top: 2400px;  right: 400px;
+  font-family: "Papyrus",fantasy;  font-size: x-large;
+  letter-spacing: 2px;
+  color: antiquewhite;
+}
+
+
+
+
+/* Lessons table */
+.CSD {
+  border: 1px solid rgb(0, 0, 0);
+  background-color: rgb(230, 198, 21); 
+  position: absolute; 
+  height: 200px; width: 550px;
+  top: 2880px; left: 620px;
+  opacity: 0.6;
+}
+
+
+
+/* smeagol gif */
+.tenor-gif-embed{
+  position: absolute;
+  top: 3360px; left: 5px;
+}
+
+
+/* Footer */
+footer{
+  position: absolute; 
+  top: 3500px; left: 220px;
+  width: 4000px; height: 150px;
+  color: rgb(94, 94, 238);
+}
+
+
+/* Social-Media buttons */ 
+
+.fa-facebook {
+  background: #275cce;
+  color: white;
+}
+
+
+.fa-instagram {
+  background: #7c0caf;
+  color: rgb(189, 174, 174);
+
+}
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
